@@ -1,4 +1,4 @@
-# The-Movie-Traile
+# The-Movie-Trailer
 
 
 The Movie Trailer (TMT) is a website which allows you to be always up to date about 
